@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d4975e23.chunk.css",
+    "main.js": "/static/js/main.52f98497.chunk.js",
+    "main.js.map": "/static/js/main.52f98497.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c6c70406.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c6c70406.js.map",
+    "static/js/2.15a202e3.chunk.js": "/static/js/2.15a202e3.chunk.js",
+    "static/js/2.15a202e3.chunk.js.map": "/static/js/2.15a202e3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d4975e23.chunk.css.map": "/static/css/main.d4975e23.chunk.css.map",
+    "static/js/2.15a202e3.chunk.js.LICENSE.txt": "/static/js/2.15a202e3.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/static/media/grotesk.1d7fa85a.woff",
+    "static/media/India.d7d0065a.png": "/static/media/India.d7d0065a.png",
+    "static/media/Optimized-covid.8cc62214.jpg": "/static/media/Optimized-covid.8cc62214.jpg",
+    "static/media/Profile.1b8068d0.jpg": "/static/media/Profile.1b8068d0.jpg",
+    "static/media/Profile.aab3f2a3.webp": "/static/media/Profile.aab3f2a3.webp",
+    "static/media/bg.141ce344.jpg": "/static/media/bg.141ce344.jpg",
+    "static/media/bg.b6ff2dfa.jpg": "/static/media/bg.b6ff2dfa.jpg",
+    "static/media/coding.74f7ff06.jpg": "/static/media/coding.74f7ff06.jpg",
+    "static/media/covid_1.d2c69f5f.webp": "/static/media/covid_1.d2c69f5f.webp",
+    "static/media/covid_2.6ec54493.webp": "/static/media/covid_2.6ec54493.webp",
+    "static/media/covid_3.644a30e2.webp": "/static/media/covid_3.644a30e2.webp",
+    "static/media/covid_4.1b124121.webp": "/static/media/covid_4.1b124121.webp",
+    "static/media/covid_mob_1.5607bc48.webp": "/static/media/covid_mob_1.5607bc48.webp",
+    "static/media/covid_mob_2.c48a81b6.webp": "/static/media/covid_mob_2.c48a81b6.webp",
+    "static/media/covid_tab_1.9ca9827a.webp": "/static/media/covid_tab_1.9ca9827a.webp",
+    "static/media/covid_tab_2.aa8af06a.webp": "/static/media/covid_tab_2.aa8af06a.webp",
+    "static/media/fitness.ddc224c7.jpg": "/static/media/fitness.ddc224c7.jpg",
+    "static/media/glass.215541da.webp": "/static/media/glass.215541da.webp",
+    "static/media/heightMap.5c44a4bd.webp": "/static/media/heightMap.5c44a4bd.webp",
+    "static/media/App.css": "/static/media/noise.e1896f42.png",
+    "static/media/pinkfort.b76ed2d6.png": "/static/media/pinkfort.b76ed2d6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6c70406.js",
+    "static/js/2.15a202e3.chunk.js",
+    "static/css/main.d4975e23.chunk.css",
+    "static/js/main.52f98497.chunk.js"
+  ]
+}
